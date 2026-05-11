@@ -14,7 +14,7 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "预训练",
             "pages": [
               "index",
               "quickstart",
@@ -22,14 +22,14 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "推理",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "后训练",
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -38,7 +38,7 @@
             ]
           },
           {
-            "group": "AI tools",
+            "group": "CUDA",
             "pages": [
               "ai-tools/cursor",
               "ai-tools/claude-code",
