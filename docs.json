@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "xxzz",
+  "theme": "mint",
   "name": "fjs和xwq的学习记录",
   "colors": {
     "primary": "#16A34A",
