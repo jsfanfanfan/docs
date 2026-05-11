@@ -11,11 +11,12 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "预训练",
         "groups": [
           {
             "group": "预训练",
             "pages": [
+              "resources/training",
               "index",
               "quickstart",
               "development"
@@ -48,7 +49,47 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "推理",
+        "groups": [
+          {
+            "group": "API documentation",
+            "pages": [
+              "api-reference/introduction"
+            ]
+          },
+          {
+            "group": "Endpoint examples",
+            "pages": [
+              "api-reference/endpoint/get",
+              "api-reference/endpoint/create",
+              "api-reference/endpoint/delete",
+              "api-reference/endpoint/webhook"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "后训练",
+        "groups": [
+          {
+            "group": "API documentation",
+            "pages": [
+              "api-reference/introduction"
+            ]
+          },
+          {
+            "group": "Endpoint examples",
+            "pages": [
+              "api-reference/endpoint/get",
+              "api-reference/endpoint/create",
+              "api-reference/endpoint/delete",
+              "api-reference/endpoint/webhook"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "CUDA",
         "groups": [
           {
             "group": "API documentation",
